@@ -1,0 +1,10 @@
+1001 Ahmad_Hassan Jerusalem 201 2023-09-15
+1002 Fatima_Ali Ramallah 202 2023-09-16
+1003 Omar_Khalil Bethlehem 201 2023-09-17
+1004 Layla_Mansour Nablus 203 2023-09-18
+1005 Yusuf_Salem Hebron 202 2023-09-19
+1006 Zeinab_Ahmad Jenin 204 2023-09-20
+1007 Khaled_Omar Tulkarem 201 2023-09-21
+1008 Sara_Mohammed Qalqilya 203 2023-09-22
+1009 Tariq_Ibrahim Salfit 202 2023-09-23
+1010 Reem_Hassan Tubas 204 2023-09-24
